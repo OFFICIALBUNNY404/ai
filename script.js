@@ -3,7 +3,7 @@ alert("VOID AI FULL LOADED! API OpenRouter aktif sekarang.");
 
 console.log("Void AI: script.js full version loaded");
 
-const API_KEY = "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"; // Key-mu tanpa limit
+const API_KEY = "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"; // Key-mu tanpa limit
 const MODEL = "cognitivecomputations/dolphin-mistral-24b-venice-edition:free"; // Uncensored terbaik
 
 const SYSTEM_PROMPT = `
